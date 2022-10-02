@@ -1,11 +1,13 @@
-h1 {
+body {
     color: red;
 }
 
-h2 {
+#title {
     color: green;
+    background: black;
 }
 
-p {
-    color: gray;
+#footer {
+    color: blue;
+    background: black;
 }
