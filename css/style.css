@@ -1,13 +1,5 @@
-body {
-    color: red;
-}
-
-#title {
-    color: green;
-    background: black;
-}
-
-#footer {
-    color: blue;
-    background: black;
-}
+h1.one {color: green;}
+h1.two {color: blue;}
+h1.three {color: black;}
+h1.four {color: yellow; background: black;}
+h1.five {color: red;}
