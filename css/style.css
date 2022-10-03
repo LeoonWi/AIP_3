@@ -1,7 +1,11 @@
-.green {color: green;}
+.outer {
+    width: 400px;
+    height: 400px;
+    background: blue;
+}
 
-.red {color: red;}
-
-#title {font-size: 40px;}
-
-.style {font-style: italic;}
+.inner {
+    width: 50%;
+    height: 50%;
+    background: red;
+}
