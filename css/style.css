@@ -6,6 +6,7 @@ h1 {
     margin-bottom: 0;
     border-style: solid;
     border-color: black;
+    border-radius: 15px;
 }
 p {
     background: blue;
