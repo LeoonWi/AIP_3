@@ -1,0 +1,41 @@
+/*
+font-size font-family
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-size: 40px;
+    text-decoration: none;
+}
+
+h1 {
+    text-decoration: line-through;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-align: right;
+}
+
+p {
+    font-weight: 900;
+    font-style: oblique;
+}
+
+.one {
+    line-height: 0.5em;
+}
+
+.two {
+    letter-spacing: 5px;
+    text-decoration: overline;
+}
+
+.three {
+    word-spacing: 20px;
+    text-decoration: underline;
+}

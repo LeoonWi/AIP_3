@@ -1,0 +1,22 @@
+/*
+vw - width - percent on screen
+vh - height - percent on screen
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    width: 50vw;
+    height: 50vh;
+    background: red;
+}
+
+.header {
+    width: 100vw;
+    height: 50vh;
+    background: blue;
+}

@@ -1,0 +1,38 @@
+.outer {
+    width: 500px;
+    height: 500px;
+    background: blue;
+}
+
+.inner {
+    width: 65%;
+    height: 50%;
+    background: red;
+}
+
+/*
+em - relative depends on parent
+1em = 16px - default browser style
+1em = base value
+*/
+
+/*
+rem - relative depends on root
+1rem = 16px - default browser style
+*/
+
+div {
+    font-size: 10px;
+}
+
+.relative-em {
+    font-size: 2em;
+}
+
+.relative-rem {
+    font-size: 2rem;
+}
+
+.absolute {
+    font-size: 32px;
+}
