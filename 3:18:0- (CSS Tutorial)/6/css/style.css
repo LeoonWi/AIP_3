@@ -1,0 +1,28 @@
+/*
+RGD RED GREEN BLUE
+RGBA добавляет ещё эффект прозрачности 4-ым значением
+*/
+
+body {
+    background: rgb(100, 34,210);
+}
+
+#one {
+    color: #ff0000;
+    background: rgb(0, 0, 0);
+}
+
+#two {
+    color: rgb(0, 255, 0);
+    background: rgb(255, 255, 255);
+}
+
+#three {
+    color: rgb(255, 0, 0);
+    background: rgb(0, 0, 0, 0);
+}
+
+#four {
+    color: rgb(0, 0, 255);
+    background: rgb(0, 0, 0, 1);
+}

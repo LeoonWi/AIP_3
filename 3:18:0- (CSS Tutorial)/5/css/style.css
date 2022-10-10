@@ -1,0 +1,34 @@
+/*
+Вес:
+тег = 1
+класс = 10
+айди = 100
+*/
+
+* {
+    text-align: center;
+}
+
+body {
+    font-family: monospace;
+    line-height: 1.5em;
+}
+
+div {
+    color: blue;
+    border: 3px solid black;
+}
+
+h1 {
+    color: red;
+}
+
+p.green {
+    color: green;
+}
+
+p#lorem24 {
+    text-align: justify;
+    color: yellow;
+    background: blue;
+}

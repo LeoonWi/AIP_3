@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+
+#top {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
+
+#footer {
+    color: aqua;
+    background: blue;
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    border: dashed 2px;
+}
+
+.blue {
+    background: blue;
+    color: aquamarine;
+}
+
+#green {
+    background: green;
+    color: yellow;
+}
+
+#red {
+    background: red;
+    color: white;
+}
+
+#black {
+    background: black;
+    color: white;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.center {
+    text-align: center;
+}
