@@ -1,0 +1,24 @@
+/* 
+css box model
+*/
+
+h1{
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    padding-left: 25px;
+    margin: 30px;
+    background: red;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+p {
+    padding: 20px 40px 60px 10px;
+    background: blue;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 10%;
+    /* padding: 50px;; */
+    /* padding: 30px 60px; */
+}
