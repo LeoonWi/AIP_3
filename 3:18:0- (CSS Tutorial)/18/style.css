@@ -1,0 +1,35 @@
+/*
+body {
+    display: flex;
+}
+*/
+
+div {
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.one {
+    background: linear-gradient(purple, blue);
+}
+
+.two {
+    background: linear-gradient(to top, purple, blue, aqua);
+}
+
+.three {
+    background: linear-gradient(150deg, purple, blue, aqua);
+}
+
+.four {
+    background: linear-gradient(to bottom right, purple, blue, aqua);
+}
+
+.five {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 1));
+}
+
+.six {
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 1));
+}

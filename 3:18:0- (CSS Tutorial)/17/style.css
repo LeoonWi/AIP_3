@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    min-height: 100vh;
+    color: red;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.big-img {
+    background: url("./wallpaper.jpg");
+    background-repeat: round;
+    background-size: cover;
+    background-attachment: fixed;
+    /*background-position: center;*/
+}
+
+.small-img {
+    background: url("./settings-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /*
+    background-position: 100% 100%;
+    background-position: left;
+    background-position: right;
+    background-position: top;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: space;
+    background-repeat: round;
+    */
+}
+
+.folder-img {
+    background: url("./img/microsoft-surface.jpg");
+    /*background-size: contain;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
