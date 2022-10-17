@@ -1,0 +1,46 @@
+.banner {
+    border: red solid 5px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+img.one {
+    width: 100px;
+    float: right;
+}
+
+/*
+.two {
+    height: 1000px;
+    float: left;
+}
+*/
+
+p {
+    clear: both;
+    text-align: justify;
+}
+
+.header {
+    margin: 5px auto;
+    border: red solid 3px;
+    background: yellow;
+    position: relative;
+
+}
+
+p.one {
+    background: blue;
+}
+
+p.two {
+    background: green;
+}
+
+.special {
+    background: lightcoral;
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
